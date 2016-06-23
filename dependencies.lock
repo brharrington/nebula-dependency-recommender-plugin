@@ -23,6 +23,62 @@
             "requested": "3.0.4"
         }
     },
+    "integTestCompile": {
+        "com.github.xmlunit:xmlunit": {
+            "locked": "7ed02fb294",
+            "requested": "7ed02fb294"
+        },
+        "com.netflix.nebula:nebula-test": {
+            "locked": "4.2.2",
+            "requested": "4.0.0"
+        },
+        "org.apache.maven:maven-model-builder": {
+            "locked": "3.0.4",
+            "requested": "3.0.4"
+        }
+    },
+    "integTestCompileClasspath": {
+        "com.github.xmlunit:xmlunit": {
+            "locked": "7ed02fb294",
+            "requested": "7ed02fb294"
+        },
+        "com.netflix.nebula:nebula-test": {
+            "locked": "4.2.2",
+            "requested": "4.0.0"
+        },
+        "org.apache.maven:maven-model-builder": {
+            "locked": "3.0.4",
+            "requested": "3.0.4"
+        }
+    },
+    "integTestCompileOnly": {
+        "com.github.xmlunit:xmlunit": {
+            "locked": "7ed02fb294",
+            "requested": "7ed02fb294"
+        },
+        "com.netflix.nebula:nebula-test": {
+            "locked": "4.2.2",
+            "requested": "4.0.0"
+        },
+        "org.apache.maven:maven-model-builder": {
+            "locked": "3.0.4",
+            "requested": "3.0.4"
+        }
+    },
+    "integTestRuntime": {
+        "com.github.xmlunit:xmlunit": {
+            "locked": "7ed02fb294",
+            "requested": "7ed02fb294"
+        },
+        "com.netflix.nebula:nebula-test": {
+            "locked": "4.2.2",
+            "requested": "4.0.0"
+        },
+        "org.apache.maven:maven-model-builder": {
+            "locked": "3.0.4",
+            "requested": "3.0.4"
+        }
+    },
     "jacocoAgent": {
         "org.jacoco:org.jacoco.agent": {
             "locked": "0.7.6.201602180812"
@@ -45,7 +101,7 @@
             "requested": "7ed02fb294"
         },
         "com.netflix.nebula:nebula-test": {
-            "locked": "4.2.0",
+            "locked": "4.2.2",
             "requested": "4.0.0"
         },
         "org.apache.maven:maven-model-builder": {
@@ -59,7 +115,7 @@
             "requested": "7ed02fb294"
         },
         "com.netflix.nebula:nebula-test": {
-            "locked": "4.2.0",
+            "locked": "4.2.2",
             "requested": "4.0.0"
         },
         "org.apache.maven:maven-model-builder": {
@@ -73,7 +129,7 @@
             "requested": "7ed02fb294"
         },
         "com.netflix.nebula:nebula-test": {
-            "locked": "4.2.0",
+            "locked": "4.2.2",
             "requested": "4.0.0"
         },
         "org.apache.maven:maven-model-builder": {
@@ -87,7 +143,7 @@
             "requested": "7ed02fb294"
         },
         "com.netflix.nebula:nebula-test": {
-            "locked": "4.2.0",
+            "locked": "4.2.2",
             "requested": "4.0.0"
         },
         "org.apache.maven:maven-model-builder": {
